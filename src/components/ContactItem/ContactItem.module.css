@@ -1,8 +1,4 @@
-.contactsList {
-    list-style: none;
-    padding-left: 0;
-  }
-  .contactsItem {
+.contactsItem {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -12,11 +8,7 @@
     margin-bottom: 20px;
   }
   .contactText {
-    font-weight: 500;
-  }
-  
-  .title { 
-    text-align: center;
+    font-weight: 700;
   }
   
   .button {
@@ -27,7 +19,6 @@
     font-size: 16px;
     font-weight: 700;
     cursor: pointer;
-    transition: 250ms;
     margin: 0 auto;
   }
   
